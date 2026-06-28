@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # santander-ai-java-backend
-# santander-ai-java-backend
+
 =======
 # Explorando Padrões de Projetos na Prática com Java
 
@@ -8,4 +7,4 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy
 - Facade
->>>>>>> 8b48cad590ff9e88dc021dab0798e7868d2e7e50
+
