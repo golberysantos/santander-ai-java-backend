@@ -9,8 +9,8 @@ import br.com.padroes.model.Cliente;
 import br.com.padroes.model.Endereco;
 import br.com.padroes.repository.ClienteRepository;
 import br.com.padroes.repository.EnderecoRepository;
-import one.digitalinnovation.gof.service.ClienteService;
-import one.digitalinnovation.gof.service.ViaCepService;
+import br.com.padroes.service.ClienteService;
+import br.com.padroes.service.ViaCepService;
 
 /**
  * Implementação da <b>Strategy</b> {@link ClienteService}, a qual pode ser
