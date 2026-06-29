@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.model;
+package br.com.padroes.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
