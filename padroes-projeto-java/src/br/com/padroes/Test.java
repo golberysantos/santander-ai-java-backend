@@ -4,11 +4,11 @@ import br.com.padroes.facade.Facade;
 import br.com.padroes.singleton.SingletonEager;
 import br.com.padroes.singleton.SingletonLazy;
 import br.com.padroes.singleton.SingletonLazyHolder;
-import one.digitalinnovation.gof.strategy.Comportamento;
-import one.digitalinnovation.gof.strategy.ComportamentoAgressivo;
-import one.digitalinnovation.gof.strategy.ComportamentoDefensivo;
-import one.digitalinnovation.gof.strategy.ComportamentoNormal;
-import one.digitalinnovation.gof.strategy.Robo;
+import br.com.padroes.strategy.Comportamento;
+import br.com.padroes.strategy.ComportamentoAgressivo;
+import br.com.padroes.strategy.ComportamentoDefensivo;
+import br.com.padroes.strategy.ComportamentoNormal;
+import br.com.padroes.strategy.Robo;
 
 public class Test {
 

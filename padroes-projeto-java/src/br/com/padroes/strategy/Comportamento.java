@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.strategy;
+package br.com.padroes.strategy;
 
 public interface Comportamento {
 	void mover();
