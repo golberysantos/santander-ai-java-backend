@@ -7,8 +7,8 @@ import org.springframework.stereotype.Service;
 
 import br.com.padroes.model.Cliente;
 import br.com.padroes.model.Endereco;
-import one.digitalinnovation.gof.model.ClienteRepository;
-import one.digitalinnovation.gof.model.EnderecoRepository;
+import br.com.padroes.repository.ClienteRepository;
+import br.com.padroes.repository.EnderecoRepository;
 import one.digitalinnovation.gof.service.ClienteService;
 import one.digitalinnovation.gof.service.ViaCepService;
 
