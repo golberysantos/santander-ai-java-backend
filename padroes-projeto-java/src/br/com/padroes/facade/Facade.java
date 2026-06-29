@@ -1,7 +1,7 @@
-package one.digitalinnovation.gof.facade;
+package br.com.padroes.facade;
 
-import subsistema1.crm.CrmService;
-import subsistema2.cep.CepApi;
+import br.com.padroes.facade.subsistema.CepApi;
+import br.com.padroes.facade.subsistema.CrmService;
 
 public class Facade {
 

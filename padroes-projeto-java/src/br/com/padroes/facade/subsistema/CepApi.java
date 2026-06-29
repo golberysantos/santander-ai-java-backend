@@ -1,4 +1,4 @@
-package subsistema2.cep;
+package br.com.padroes.facade.subsistema;
 
 public class CepApi {
 

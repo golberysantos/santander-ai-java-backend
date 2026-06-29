@@ -1,4 +1,4 @@
-package subsistema1.crm;
+package br.com.padroes.facade.subsistema;
 
 public class CrmService {
 
