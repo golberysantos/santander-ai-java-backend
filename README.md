@@ -13,7 +13,6 @@ Implementação prática dos padrões de projeto **Singleton**, **Strategy** e *
 ## Estrutura do Repositório
 
 ```
-padroes-projeto-santander-challenge/
 ├── padroes-projeto-java/     ← Padrões com Java Puro
 └── padroes-projeto-spring/   ← Padrões com Spring Boot 3
 ```
@@ -32,10 +31,10 @@ padroes-projeto-santander-challenge/
 
 ## Módulos
 
-### [Java Puro](./lab-padroes-projeto-java/README.md)
+### [Java Puro](./padroes-projeto-java/README.md)
 Exemplos didáticos sem framework, focados em entender a essência de cada padrão.
 
-### [Spring Boot](./lab-padroes-projeto-spring/README.md)
+### [Spring Boot](./padroes-projeto-spring/README.md)
 API REST completa com integração à API ViaCEP, banco H2, Swagger e tratamento global de exceções.
 
 ---
