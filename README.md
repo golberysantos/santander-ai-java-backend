@@ -13,7 +13,7 @@ Implementação prática dos padrões de projeto **Singleton**, **Strategy** e *
 ## Estrutura do Repositório
 
 ```
-lab-padroes-projeto/
+padroes-projeto-santander-challenge/
 ├── padroes-projeto-java/     ← Padrões com Java Puro
 └── padroes-projeto-spring/   ← Padrões com Spring Boot 3
 ```
